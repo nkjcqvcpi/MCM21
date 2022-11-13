@@ -1,1 +1,0 @@
-Size and overall configuration match known parameters; however, coloration does not fully match given description.
